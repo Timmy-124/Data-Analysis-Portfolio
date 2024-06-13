@@ -1,0 +1,109 @@
+--- This analysis seeks to identify the patterns and causes of employee attrition to develop strategies for improving the company's retention rates.
+
+--- This dataset is gotten from Kaggle
+
+
+--- Total Number Of Active Employees
+SELECT COUNT(*) AS employee_count
+FROM employee_data
+WHERE attrition = 'No';
+
+
+--- Total Number Of Employees That Resigned 
+SELECT COUNT(*) AS employee_count
+FROM employee_data 
+WHERE attrition = 'Yes';
+
+
+--- Average Age Of Employees
+SELECT AVG(age) AS avg_age
+FROM employee_data;
+
+
+--- Attrition Rate
+SELECT 
+   (SUM(CASE WHEN attrition = 'Yes' THEN 1 ELSE 0 END) * 100.0 / COUNT(*)) AS AttritionRate
+FROM employee_data;
+
+
+--- Total Attrition By Gender
+SELECT gender, COUNT(*) AS employee_count
+FROM employee_data
+WHERE attrition = 'Yes'
+GROUP BY gender
+ORDER BY employee_count DESC;
+
+
+--- Total Attrition By Education
+SELECT educationfield, COUNT(*) AS employee_count
+FROM employee_data
+WHERE attrition = 'Yes'
+GROUP BY educationfield
+ORDER BY employee_count DESC;
+
+
+--- Total Attrition By Department
+SELECT department, COUNT(*) AS employee_count
+FROM employee_data
+WHERE attrition = 'Yes'
+GROUP BY department 
+ORDER BY employee_count DESC;
+
+
+--- Total Attrition By Job Role
+SELECT jobrole, COUNT(*) AS employee_count
+FROM employee_data
+WHERE attrition = 'Yes'
+GROUP BY jobrole
+ORDER BY employee_count DESC;
+
+
+--- Total Attrition By Age Group
+SELECT agegroup, COUNT(*) AS employee_count
+FROM employee_data
+WHERE attrition = 'Yes'
+GROUP BY agegroup
+ORDER BY employee_count DESC;
+
+
+--- Total Attrition By Monthly Income
+WITH salary_ranges AS (
+    SELECT empid,
+        CASE  
+          WHEN monthlyincome < 3000 THEN 'Under 3000'
+          WHEN monthlyincome BETWEEN 3000 AND 6000 THEN '3000-6000'
+          WHEN monthlyincome BETWEEN 6001 AND 9000 THEN '6001-9000'
+          ELSE '9000+' 
+		  END AS income_range,
+	   attrition
+   FROM employee_data
+)
+SELECT income_range, 
+       COUNT(*) AS employee_count
+FROM salary_ranges
+WHERE attrition = 'Yes'
+GROUP BY income_range
+ORDER BY employee_count DESC;
+
+
+--- Total Attrition By Number Of Years Worked At The Company
+SELECT yearsatcompany, COUNT(*) AS employee_count
+FROM employee_data
+WHERE attrition = 'Yes'
+GROUP BY yearsatcompany 
+ORDER BY employee_count DESC;
+
+
+--- Total Attrition By Overtime
+SELECT overtime, COUNT(*) AS employee_count
+FROM employee_data
+WHERE attrition = 'Yes'
+GROUP BY overtime
+ORDER BY employee_count DESC; 
+
+
+--- Total Attrition By Frequency Of Travel
+SELECT businesstravel,COUNT(*) AS employee_count
+FROM employee_data
+GROUP BY businesstravel
+ORDER BY employee_count DESC; 
