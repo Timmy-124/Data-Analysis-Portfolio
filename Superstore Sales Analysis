@@ -1,0 +1,99 @@
+--- This superstore sales analysis seeks to identify key insights into product performance, customer preferences and regional sales performance, highlighting opportunities for targeted marketing strategies
+
+--- This dataset is gotten from Kaggle
+
+
+--- Total Sales 
+SELECT SUM(sales) AS total_sales
+FROM superstore_sales;
+
+--- Total Profit
+SELECT SUM(profit) AS total_profit
+FROM superstore_sales;
+
+--- Total Quantity Sold
+SELECT SUM(quantity) AS total_quantity_sold
+FROM superstore_sales;
+
+--- Total Orders
+SELECT COUNT(DISTINCT order_id) AS total_orders
+FROM superstore_sales;
+
+--- Sales and Profit by State and City
+SELECT state,
+       city,
+       SUM(sales) AS total_sales,
+       SUM(Profit) AS total_profit
+FROM superstore_sales
+GROUP BY state, city
+ORDER BY total_sales DESC;
+
+--- Sales and Profit by Product Category
+SELECT category,
+       SUM(sales) AS total_sales,
+	     SUM(profit) AS total_profit
+FROM superstore_sales
+GROUP BY category
+ORDER BY total_sales DESC;
+
+--- Sales and Profit by Segment
+SELECT segment,
+       SUM(sales) AS total_sales,
+	     SUM(profit) AS total_profit
+FROM superstore_sales
+GROUP BY segment
+ORDER BY total_sales DESC;
+
+--- Sales and Profit by Product Sub-Category
+SELECT sub_category,
+       SUM(sales) AS total_sales,
+	     SUM(profit) AS total_profit
+FROM superstore_sales
+GROUP BY sub_category
+ORDER BY total_sales DESC;
+
+--- Most Purchased Product by Customers
+SELECT product_name,
+       COUNT(quantity) AS total_quantity_ordered
+FROM superstore_sales
+GROUP BY product_name
+ORDER BY total_quantity_ordered DESC; 
+
+--- Yearly Sales Trend
+SELECT 
+    YEAR(order_date) AS year, 
+    SUM(sales) AS total_sales
+FROM 
+    superstore_sales
+GROUP BY 
+    YEAR(order_date)
+ORDER BY 
+    total_sales DESC;
+
+--- Sales and Profit by Region
+SELECT region,
+      SUM(sales) AS total_sales,
+	    SUM(profit) AS total_profit
+FROM superstore_sales
+GROUP BY region
+ORDER BY total_sales DESC;
+
+--- Top Customers by Sales and Profit
+SELECT customer_name,
+       customer_id,
+	     segment,
+	     SUM(quantity) AS total_quantity_ordered,
+	     SUM(sales) AS total_sales,
+	     SUM(profit) AS total_profit
+FROM superstore_sales
+GROUP BY customer_name,
+         customer_id,
+		    segment
+ORDER BY total_sales DESC;
+
+--- Most Purchased Product Category by Customers
+SELECT category,
+       SUM(quantity) AS no_of_quantity_sold
+FROM superstore_sales
+GROUP BY category
+ORDER BY no_of_quantity_sold DESC;
