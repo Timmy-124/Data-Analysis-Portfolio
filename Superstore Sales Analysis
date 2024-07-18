@@ -20,7 +20,7 @@ SELECT SUM(sales) / COUNT(order_id) AS average_order_value
 FROM superstore_sales;
 
 --- Total Orders
-SELECT COUNT(DISTINCT order_id) AS total_orders
+SELECT COUNT(*) AS total_orders
 FROM superstore_sales;
 
 --- Sales and Profit by State and City
