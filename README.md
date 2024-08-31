@@ -12,8 +12,8 @@ Hi, I'm Timilehin. I am a dedicated Data Analyst with a passion for translating 
 I am constantly exploring new ways to enhance my skills, with a keen interest in identifying opportunities for improvement.
 
  ## Portfolio Projects
- ## Coffee Shop Sales Analysis
-   ### Case Study: Sales Analysis for "Brew Bliss" Coffee Shop
+ ## Employee Attrition Analysis
+   ### Case Study: Employee Attrition Analysis for a Technology Company
    ### Overview
-
+  
 
