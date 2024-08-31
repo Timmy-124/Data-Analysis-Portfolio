@@ -15,7 +15,15 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
  ## Coffee Shop Sales Analysis
    ### Case Study: Sales Analysis for "Brew Bliss" Coffee Shop
    ### Overview
- This case study examines the sales performance of "Brew Bliss," a fictional coffee shop, with the goal of refining its sales strategies to boost profitability. The coffee shop owner aims to enhance sales by focusing on improving underperforming products and maximizing the revenue from top-performing items. Additionally, the study involves analyzing monthly sales trends over the past six months to detect fluctuations and understand their underlying causes.
+ This case study examines the sales performance of "Brew Bliss," a fictional coffee shop, with the goal of refining its sales strategies to boost profitability. The coffee shop owner aims to enhance sales by focusing on improving underperforming products and maximizing the revenue from top-performing items, and analyzing monthly sales trends from January to June to identify fluctuations and their underlying causes.
+  ### Objectives
+  1. Identifying flunctuations in the monthly sales trend
+  2. Identifying the busiest day of the week
+  3. Analyze product sales frequency
+  4. Determine revenue-driving products
   ### Stakeholders
   The Owner of Brew Bliss and the Sales Team
+  ### Tools Used
+  1. Microsoft Excel
+  2. SQL
 
