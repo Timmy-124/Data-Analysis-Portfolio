@@ -13,5 +13,7 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
 
  ## Portfolio Projects
  ## Coffee Shop Sales Analysis
-
+   ### Case Study: Sales Analysis for "Brew Bliss" Coffee Shop
+   ### Overview
+ This case study examines the sales performance of "Brew Bliss," a fictional coffee shop, with the goal of refining its sales strategies to boost profitability. The coffee shop owner aims to enhance sales by focusing on improving underperforming products and maximizing the revenue from top-performing items. Additionally, the study involves analyzing monthly sales trends over the past six months to detect fluctuations and understand their underlying causes.
 
