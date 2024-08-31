@@ -24,6 +24,8 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
   ### Stakeholders
   The Owner of Brew Bliss and the Sales Team
   ### Tools Used
-  1. Microsoft Excel
-  2. SQL
+  1. Microsoft Excel: Excel was used extensively for data cleaning to prepare the dataset for analysis. These techniques involves removing duplicates to ensure accuracy and standardizing 
+    date formats for accuracy.
+  2. SQL: [View Here](https://github.com/Timmy-124/SQL-Portfolio/blob/main/Coffee%20Shop%20Sales%20Analysis)
+  3. Visualization: [View Here](https://public.tableau.com/app/profile/timilehin.egbeyemi/viz/CoffeeShopSalesAnalysisDashboard/CoffeeSalesDashboard)
 
