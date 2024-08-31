@@ -3,7 +3,7 @@
   ### Table Of Content
   - [About](#About)
   - [Portfolio Projects](#PortfolioProjects)
-      - [Coffee Sales Analysis](#CoffeeSalesAnalysis)
+      - [Coffee Shop Sales Analysis](#CoffeeShopSalesAnalysis)
       - [Employee Attrition Analysis](#EmployeeAttritionAnalysis)
       - [Superstore Sales Analysis](#SuperstoreSalesAnalysis)
 
