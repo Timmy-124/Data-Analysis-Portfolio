@@ -53,9 +53,9 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
   ## Superstore Sales Analysis
    ### Case Study: Sales Analysis for "Mega Mart" Superstore
    ### Overview
-    "Mega Mart", a fictional superstore, is a large online superstore. It sells a wide range of products including electronics, furnitures, and office supplies. The Sales and Marketing team at "Mega Mart" has requested a comprehensive analysis of the store's sales data. The goal is to identify key trends and insights that will help in improving sales performance and enhancing tailored marketing strategies. The analysis will support decision-making and strategic planning to boost overall profitability and customer satisfaction. 
+"Mega Mart", a fictional supermarket, is a large online supermarket. It sells a wide range of products including electronics, furnitures, and office supplies. The Sales and Marketing team at "Mega Mart" has requested a comprehensive analysis of the store's sales data. The goal is to identify key trends and insights that will help in improving sales performance and enhancing tailored marketing strategies. The analysis will support decision-making and strategic planning to boost overall profitability and customer satisfaction. 
   ### Objectives
-      The primary objectives of this analysis are:
+The primary objectives of this analysis are:
    1. Analyze monthly sales trends to identify patterns and peak periods
    2. Evaluate product performance to identify best-selling and under-performing product categories
    3. Gain insights into customer behavior across different segments (Consumer, Home Office, Corporate)
