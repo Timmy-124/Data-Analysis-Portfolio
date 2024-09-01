@@ -15,7 +15,7 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
  ## Employee Attrition Analysis
    ### Case Study: Employee Attrition Analysis for "Sweet Life" Healthcare Company
    ### Overview
-   “Sweet Life”, a fictional healthcare company, has high employee attrition which has become a significant concern for the company. The cost of recruiting, training, and integrating new employees is substantial. Furthermore, high turnover disrupts team dynamics and knowledge continuity, leading to potential delays in project delivery and a decline in service quality. This analysis aims to uncover the underlying causes of employee attrition, and provide actionable insights to develop targeted retention strategies.
+   “Sweet Life”, a fictional healthcare company, has high employee attrition which has become a significant concern for the company. The cost of recruiting, training, and integrating new employees is substantial. Furthermore, high turnover disrupts team dynamics and knowledge continuity, leading to potential delays in project delivery and a decline in service quality. The Human Resources (HR) department prompted the need for a comprehensive analysis to identify the root causes and develop strategies to reduce turnover. 
 ### Objectives
    The primary objectives of this analysis are; 
    1. Identifying key drivers of attrition
