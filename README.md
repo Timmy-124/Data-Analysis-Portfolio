@@ -32,13 +32,12 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
   2. The highest turn over was observed in the Research and Development Department, with rate of 56.12%
   3. Male employees have higher attrition rate than the female employees with 63.29%
   4. Laboratory and technician job role had the highest attrition rate with 26.16%
-  5. Employees within a 1 year of tenure had the highest attrition rate at 24.89%, indicating early exits
+  5. Younger employees (aged 26-35) with 1-2 years of tenure were more likely to leave the company. This group accounted for 48.95% of the total attrition
   ### Key Drivers of Attrition
-  1. Age and Tenure: Younger employees (aged 26-35) with 1-2 years of tenure were more likely to leave the company. This group accounted for 48.95% of the total attrition
-  2. Salary: Employees who earns less than $3,000 monthly were most likely to leave the company
-  3. Job Satisfaction: Employees who rated their job satisfaction as below average had the higher chance of leaving the company
-  4. Work-Life Balance: Employees who rated their work-life balance as poor had the highest attrition
-  5. Overtime: Employees who mostly have overtime schedules had the highest attrition rate at 58%
+  1. Salary: Employees who earns less than $3,000 monthly were most likely to leave the company
+  2. Job Satisfaction: Employees who rated their job satisfaction as below average had the higher chance of leaving the company
+  3. Work-Life Balance: Employees who rated their work-life balance as poor had the highest attrition
+  4. Overtime: Employees who mostly have overtime schedules had the highest attrition rate at 58%
  ### Recommendations
   1. Enhance Salary Packages: Enhancing the benefits package and salaries to make them competitive within the industry can prevent employees from leaving for better offers 
      elsewhere and can prevent attrition
@@ -54,8 +53,14 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
   ## Superstore Sales Analysis
    ### Case Study: Sales Analysis for "Mega Mart" Superstore
    ### Overview
-    "Mega Mart", a fictional superstore, is a large retail chain with multiple locations across the USA. It sells a wide range of products including electronics, furnitures, and office supplies. The Sales and Marketing team at "Mega Mart" has requested a comprehensive analysis of the store's sales data. The goal is to identify key trends and insights that will help in improving sales performance and enhancing marketing strategies. The analysis will support decision-making and strategic planning to boost overall profitability and customer satisfaction. 
+    "Mega Mart", a fictional superstore, is a large online superstore. It sells a wide range of products including electronics, furnitures, and office supplies. The Sales and Marketing team at "Mega Mart" has requested a comprehensive analysis of the store's sales data. The goal is to identify key trends and insights that will help in improving sales performance and enhancing tailored marketing strategies. The analysis will support decision-making and strategic planning to boost overall profitability and customer satisfaction. 
   ### Objectives
+      The primary objectives of this analysis are:
+   1. Analyzing sales and profit trends over the past 12 months
+   2. Identifying peak sales period
+   3. Analyzing sales by product categories and sub-categories
+   4. Analyzing sales by customer segments (Consumer, Home office & Corporate)
+   5. Analyzing customer purchasing patterns and their preferences
      
       
 
