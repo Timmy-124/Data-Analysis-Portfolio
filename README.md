@@ -2,10 +2,10 @@
 
   ### Table Of Content
   - [About](#About)
-  - [Portfolio Projects](#PortfolioProjects)
-      - [Employee Attrition Analysis](#EmployeeAttritionAnalysis)
-      - [Superstore Sales Analysis](#SuperstoreSalesAnalysis)
-      - [Customer Segmentation Analysis](#CustomerSegmentationAnalysis)
+  - [Portfolio Projects](#Portfolio-Projects)
+      - [Employee Attrition Analysis](#Employee-Attrition-Analysis)
+      - [Superstore Sales Analysis](#Superstore-Sales-Analysis)
+      - [Customer Segmentation Analysis](#Customer-Segmentation-Analysis)
 
   ## About
 Hi, I'm Timilehin. I am a dedicated Data Analyst with a passion for translating data into meaningful insights that drive informed business decisions. I specialize in using tools like Excel, SQL, and Tableau to uncover trends, optimize processes, and delivering clear data-driven solutions. My portfolio showcases a diverse range of projects where i specialize in simplifying business problems, performing data analysis and visualization, and offering actionable, data-driven insights and solutions.
@@ -56,9 +56,6 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
    ### Overview
     "Mega Mart", a fictional superstore, is a large retail chain with multiple locations across the USA. It sells a wide range of products including electronics, furnitures, and office supplies. The Sales and Marketing team at "Mega Mart" has requested a comprehensive analysis of the store's sales data. The goal is to identify key trends and insights that will help in improving sales performance and enhancing marketing strategies. The analysis will support decision-making and strategic planning to boost overall profitability and customer satisfaction. 
   ### Objectives
-      hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-
-    1hhhhhhhhhhhhhh
-    2gggggggggggggggg
+     
       
 
