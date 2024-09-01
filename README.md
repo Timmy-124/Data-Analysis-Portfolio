@@ -56,11 +56,11 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
     "Mega Mart", a fictional superstore, is a large online superstore. It sells a wide range of products including electronics, furnitures, and office supplies. The Sales and Marketing team at "Mega Mart" has requested a comprehensive analysis of the store's sales data. The goal is to identify key trends and insights that will help in improving sales performance and enhancing tailored marketing strategies. The analysis will support decision-making and strategic planning to boost overall profitability and customer satisfaction. 
   ### Objectives
       The primary objectives of this analysis are:
-   1. Analyzing sales and profit trends over the past 12 months
-   2. Identifying peak sales period
-   3. Analyzing sales by product categories and sub-categories
-   4. Analyzing sales by customer segments (Consumer, Home office & Corporate)
-   5. Analyzing customer purchasing patterns and their preferences
+   1. Analyze monthly sales trends to identify patterns and peak periods
+   2. Evaluate product performance to identify best-selling and under-performing product categories
+   3. Gain insights into customer behavior across different segments (Consumer, Home Office, Corporate)
+   4. Analyze customer purchasing patterns and their preferences
+   5. Provide actionable recommendations to improve online sales and customer engagement.
      
       
 
