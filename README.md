@@ -56,6 +56,9 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
    ### Overview
     "Mega Mart", a fictional superstore, is a large retail chain with multiple locations across the USA. It sells a wide range of products including electronics, furnitures, and office supplies. The Sales and Marketing team at "Mega Mart" has requested a comprehensive analysis of the store's sales data. The goal is to identify key trends and insights that will help in improving sales performance and enhancing marketing strategies. The analysis will support decision-making and strategic planning to boost overall profitability and customer satisfaction. 
   ### Objectives
-      
+      hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+    1hhhhhhhhhhhhhh
+    2gggggggggggggggg
       
 
