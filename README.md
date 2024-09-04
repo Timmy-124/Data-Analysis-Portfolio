@@ -63,6 +63,8 @@ The primary objectives of this analysis are:
    5. Provide actionable recommendations to improve online sales and customer engagement.
   ### Stakeholder
 Sales Team: The sales team are interested in understanding online sales trends and performance metrics to improve sales strategies
+  ### Tools Used
+- Structured Query Language: 
  
 
   
