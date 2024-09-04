@@ -102,7 +102,9 @@ The primary objectives of this analysis are:
   ### Stakeholder
 Marketing Team: The marketing team is interested in understanding the different customer segments to create personalized marketing campaigns
   ### Tools Used
-- Structured Query Language: SQL was utilized for data cleaning and analysis [View Here]
+- Structured Query Language: SQL was utilized for data cleaning and analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Customer%20Segmentation%20Analysis)
+  ### Analysis and Findings
+
  
     
  
