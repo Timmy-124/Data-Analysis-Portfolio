@@ -59,12 +59,34 @@ The primary objectives of this analysis are:
    1. Analyze monthly sales trends to identify patterns and peak periods
    2. Evaluate product performance to identify best-selling and under-performing product categories
    3. Gain insights into customer behavior across different segments (Consumer, Home Office, Corporate)
-   4. Analyze customer purchasing patterns and their preferences
-   5. Provide actionable recommendations to improve online sales and customer engagement.
+   4. Evaluate sales performance across various states
+   5. Provide actionable recommendations to improve online sales and customer engagement
   ### Stakeholder
 Sales Team: The sales team are interested in understanding online sales trends and performance metrics to improve sales strategies
   ### Tools Used
-- Structured Query Language: 
+- Structured Query Language: SQL was utilized for data cleaning and analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Superstore%20Sales%20Analysis)
+- Tableau: Tableau was utilized to create an interactive dashboard to present findings [View Here](https://public.tableau.com/app/profile/timilehin.egbeyemi/viz/SuperstoreSalesAnalysisDashboard_17206424371240/SuperstoreSalesOverview)
+ ### Analysis and Findings
+ ### Monthly sales trends
+1. Seasonality Impact: Online sales showed significant peaks during holiday seasons, particularly in November and December, accounting for 27.63% of the annual sales
+2. Consistent Growth: Overall, there was a consistent month-over-month growth rate across the year, with noticeable dips in January and February, which could be attributed to post-holiday slowdowns
+3. Year-Over-Year Comparison: 
+
+ ### Product Performance
+1. Best-Selling Products:
+    * Top Categories: Technology emerged as the top-selling product categories, contributing to 37% of the total sales
+    * Top Products: Phones were the best selling products, with consistent demand throughout the year
+2. Under-Performing Products:
+    * Low-Performing Categories: Furniture had the lowest sales among product categories, accounting for just 29% of total sales.
+    * Low-Performing Products: Envelopes and fasteners were the least performing products within this category
+ ### Customer Insights
+1. Sales by Customer Segments:
+   * Consumer: Largest segment by sales, contributing to 45% of total sales
+   * Corporate: Accounted for 32% of total sales
+   * Home Office: Contributed to 21% of total sales 
+2. Purchasing Behaviour:
+   * Frequency: Consumers made more frequent but smaller purchases compared to Home Office and Corporate segments
+   * Transaction Value: Corporate segment had the highest average transaction value
  
 
   
