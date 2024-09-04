@@ -62,6 +62,7 @@ The primary objectives of this analysis are:
    4. Provide actionable recommendations to improve online sales and customer engagement
   ### Stakeholder
 Sales Team: The sales team are interested in understanding online sales trends and performance metrics to improve sales strategies
+Marketing Team: The marketing team aims to optimize digital marketing campaigns and promotions based on the analysis of the sales data
   ### Tools Used
 - Structured Query Language: SQL was utilized for data cleaning and analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Superstore%20Sales%20Analysis)
 - Tableau: Tableau was utilized to create an interactive dashboard to present findings [View Here](https://public.tableau.com/app/profile/timilehin.egbeyemi/viz/SuperstoreSalesAnalysisDashboard_17206424371240/SuperstoreSalesOverview)
@@ -89,7 +90,21 @@ Sales Team: The sales team are interested in understanding online sales trends a
  1. Enhance Seasonal Marketing Strategies: Implement targeted marketing campaigns during peak sales periods. Tailoring promotions around high-demand products like electronics and home office supplies will actively increase sales
  2. Holiday Season Preparation: Begin holiday season preparations early, including stocking up on best-selling products and planning special promotions to maximize sales like Black Friday
  3. Enhance Digital Marketing Strategies: Online promotions for under performing products can significantly improve customer engagements with the product and generate more sales
- 4. Expand Loyalty Program: Enhance the loyalty program to increase participation and offer rewards based on spending levels to encourage higher transaction values. 
+ 4. Expand Loyalty Program: Enhance the loyalty program to increase participation and offer rewards based on spending levels to encourage higher transaction values.
+ ## Customer Segmentation Analysis
+  ### Case Study: Customer Segmentation Analysis for "Good Electronics" E-commerce
+"Good Electronics", a fictional e-commerce company, has been experiencing fluctuating sales and is struggling to retain customers. The company offers a wide range of products, including electronics, clothing, home goods, and more. The marketing team has requested a detailed customer segmentation analysis. The goal is to understand the distinct segments within the customer base to tailor marketing strategies effectively and improve customer engagement
+  ### Objectives
+The primary objectives of this analysis are:
+1. Identify key customer segments based on purchasing behaviour and demographics
+2. Analyze each segment buying patterns and preferences
+3. Provide actionable insights for the marketing team to develop targeted campaigns for each segment
+  ### Stakeholder
+Marketing Team: The marketing team is interested in understanding the different customer segments to create personalized marketing campaigns
+  ### Tools Used
+- Structured Query Language: SQL was utilized for data cleaning and analysis [View Here]
+ 
+    
  
 
 
