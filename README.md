@@ -92,18 +92,28 @@ Marketing Team: The marketing team aims to optimize digital marketing campaigns 
  3. Enhance Digital Marketing Strategies: Online promotions for under performing products can significantly improve customer engagements with the product and generate more sales
  4. Expand Loyalty Program: Enhance the loyalty program to increase participation and offer rewards based on spending levels to encourage higher transaction values.
  ## Customer Segmentation Analysis
-  ### Case Study: Customer Segmentation Analysis for "Good Electronics" E-commerce
-"Good Electronics", a fictional e-commerce company, has been experiencing fluctuating sales and is struggling to retain customers. The company offers a wide range of products, including electronics, clothing, home goods, and more. The marketing team has requested a detailed customer segmentation analysis. The goal is to understand the distinct segments within the customer base to tailor marketing strategies effectively and improve customer engagement
+  ### Case Study: Customer Segmentation Analysis for "Good Wear" E-Commerce
+"Good Electronics", a fictional E-Commerce, has been experiencing fluctuating sales and is struggling to retain customers. The E-Commerce offers a wide range of products. The marketing team has requested a detailed customer segmentation analysis. The goal is to understand the distinct segments within the customer base to tailor marketing strategies effectively and improve customer engagement
   ### Objectives
 The primary objectives of this analysis are:
 1. Identify key customer segments based on purchasing behaviour and demographics
-2. Analyze each segment buying patterns and preferences
+2. Analyze each segment product preferences
 3. Provide actionable insights for the marketing team to develop targeted campaigns for each segment
   ### Stakeholder
 Marketing Team: The marketing team is interested in understanding the different customer segments to create personalized marketing campaigns
   ### Tools Used
 - Structured Query Language: SQL was utilized for data cleaning and analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Customer%20Segmentation%20Analysis)
   ### Analysis and Findings
+  ### Demographics and Purchasing Behaviour
+     - Gender: Female customers had the highest purchasing frequency and accumulated the most sales than the male customers
+     - Location: Chicago customers had the highest purchasing frequency and accumulated the most sales out of all the locations, while Washington DC had lowest purchasing frequency and 
+       generated the least sales but accumulated highest average purchase value 
+     - Age-Group: Age-Group 36-45 had the highest purchasing frequency and accumulated the most sales, while age 55+ had the lowest purchasing frequency  accumulated the least sales 
+  ### Product Preferences
+      - 
+  
+  
+     
 
  
     
