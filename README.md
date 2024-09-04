@@ -103,14 +103,14 @@ The primary objectives of this analysis are:
 Marketing Team: The marketing team is interested in understanding the different customer segments to create personalized marketing campaigns
   ### Tools Used
 - Structured Query Language: SQL was utilized for data cleaning and analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Customer%20Segmentation%20Analysis)
-  ### Analysis and Findings
-  ### Demographics and Purchasing Behaviour
-     - Gender: Female customers had the highest purchasing frequency and accumulated the most sales than the male customers
-     - Location: Chicago customers had the highest purchasing frequency and accumulated the most sales out of all the locations, while Washington DC had lowest purchasing frequency and 
-       generated the least sales but accumulated highest average purchase value 
-     - Age-Group: Age-Group 36-45 had the highest purchasing frequency and accumulated the most sales, while age 55+ had the lowest purchasing frequency  accumulated the least sales 
-  ### Product Preferences
-      - 
+ ### Analysis and Findings
+ ### Demographics and Purchasing Behaviour
+- Gender: Female customers had the highest purchasing frequency and accumulated the most sales than the male customers
+- Location: Chicago customers had the highest purchasing frequency and accumulated the most sales out of all the locations, while Washington DC had lowest purchasing frequency and 
+  generated the least sales but accumulated highest average purchase value
+- Age-Group: Age-Group 36-45 had the highest purchasing frequency and accumulated the most sales, while age 55+ had the lowest purchasing frequency  accumulated the least sales 
+ ### Product Preferences
+     
   
   
      
