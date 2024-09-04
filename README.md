@@ -59,8 +59,7 @@ The primary objectives of this analysis are:
    1. Analyze monthly sales trends to identify patterns and peak periods
    2. Evaluate product performance to identify best-selling and under-performing product categories
    3. Gain insights into customer behavior across different segments (Consumer, Home Office, Corporate)
-   4. Evaluate sales performance across various states
-   5. Provide actionable recommendations to improve online sales and customer engagement
+   4. Provide actionable recommendations to improve online sales and customer engagement
   ### Stakeholder
 Sales Team: The sales team are interested in understanding online sales trends and performance metrics to improve sales strategies
   ### Tools Used
@@ -68,10 +67,9 @@ Sales Team: The sales team are interested in understanding online sales trends a
 - Tableau: Tableau was utilized to create an interactive dashboard to present findings [View Here](https://public.tableau.com/app/profile/timilehin.egbeyemi/viz/SuperstoreSalesAnalysisDashboard_17206424371240/SuperstoreSalesOverview)
  ### Analysis and Findings
  ### Monthly sales trends
-1. Seasonality Impact: Online sales showed significant peaks during holiday seasons, particularly in November and December, accounting for 27.63% of the annual sales
-2. Consistent Growth: Overall, there was a consistent month-over-month growth rate across the year, with noticeable dips in January and February, which could be attributed to post-holiday slowdowns
-3. Year-Over-Year Comparison: 
-
+1. Seasonality Impact: Online sales showed significant peaks during holiday seasons, particularly in November and December, accounting for 27.63% of the total annual sales
+2. Consistent Growth: Overall, there was a consistent month-over-month growth rate across the year, with noticeable dips in January and February, which could be attributed to post-holiday slow-downs
+3. Sales Deline in Mid-Year: A slight decline in sales was observed during the summer months (June and July) 
  ### Product Performance
 1. Best-Selling Products:
     * Top Categories: Technology emerged as the top-selling product categories, contributing to 37% of the total sales
@@ -87,6 +85,13 @@ Sales Team: The sales team are interested in understanding online sales trends a
 2. Purchasing Behaviour:
    * Frequency: Consumers made more frequent but smaller purchases compared to Home Office and Corporate segments
    * Transaction Value: Corporate segment had the highest average transaction value
+ ### Recommendations
+ 1. Enhance Seasonal Marketing Strategies: Implement targeted marketing campaigns during peak sales periods, particularly focusing on the Consumer and Corporate segments. Use data-driven insights to tailor promotions around high-demand products like electronics and home office supplies
+ 2. Holiday Season Preparation: Begin holiday season preparations early, including stocking up on best-selling products and planning special promotions to maximize sales like Black Friday
+ 
+
+
+ 
  
 
   
