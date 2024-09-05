@@ -105,11 +105,23 @@ Marketing Team: The marketing team is interested in understanding the different 
 - Structured Query Language: SQL was utilized for data cleaning and analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Customer%20Segmentation%20Analysis)
  ### Analysis and Findings
  ### Demographics and Purchasing Behaviour
-- Gender: Female customers had the highest purchasing frequency and accumulated the most sales than the male customers
-- Location: Chicago customers had the highest purchasing frequency and accumulated the most sales out of all the locations, while Washington DC had lowest purchasing frequency and 
+1. Gender: Female customers exhibited the highest purchasing frequency and contributed the most to total sales, while male customers trailed in purchasing frequency and sales volume
+2. Location: Chicago customers had the highest purchasing frequency and accumulated the most sales out of all the locations, while Washington DC had lowest purchasing frequency and 
   generated the least sales but accumulated highest average purchase value
-- Age-Group: Age-Group 36-45 had the highest purchasing frequency and accumulated the most sales, while age 55+ had the lowest purchasing frequency  accumulated the least sales 
+3. Age-Group: Age-Group 36-45 had the highest purchasing frequency and contributed the most to total sales, while age 55+ had the lowest purchasing frequency and generated the least overall sales
  ### Product Preferences
+1. Gender: Female customers preffered apparel products while Male customers preffered office products
+2. Location: Customers from California, New York, Chicago showed preferrence for Office Products while New York and Washington DC customers showed preferrence for apparel products
+3. Age-Group: Age-Groups 18-25, 26-35, 36-45 preffered office products while age-groups 46-55 and 55+ preferred Notebooks and journals products
+ ### Recommendations
+1. Personalized Marketing Campaigns: The marketing team should create targeted email campaigns, social media ads, and promotions based on each segment’s product preferences. For example:
+- Female customers could receive promotions for apparel
+- Office product ads could be directed at male customers and those from locations like California, New York, and Chicago
+2. Customer Retention Strategies: Introduce loyalty programs and offer exclusive deals for high-value customers to increase retention. For instance:
+- High-value customers from Chicago could receive special discounts.
+- Personalized offers could target the 36–45 age group, the age-group with the highest purchasing frequency
+3. Regular Analysis: Conduct periodic reviews and updates of customer segments to ensure marketing strategies remain effective and relevant
+ 
      
   
   
