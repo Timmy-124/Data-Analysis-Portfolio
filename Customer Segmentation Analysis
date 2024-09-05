@@ -65,6 +65,30 @@ FROM
 WHERE 
     rank = 1;
 
+--- Customers Most Prefered Product Category by Age-Group
+WITH ranked_products AS (
+    SELECT 
+        c.age_group,
+        s.product_category,
+        SUM(s.quantity) AS total_quantity,
+        RANK() OVER (PARTITION BY c.age_group ORDER BY SUM(s.quantity) DESC) AS rank
+    FROM 
+        customer_data c
+    INNER JOIN 
+        sales_data s ON c.customerid = s.customerid
+    GROUP BY 
+        c.age_group,
+		s.product_category
+)
+SELECT 
+    age_group,
+    product_category,
+    total_quantity
+FROM 
+    ranked_products
+WHERE 
+    rank = 1;
+
 --- Total Amount Spent by Gender
 SELECT gender, 
        SUM(price * quantity) AS total_spent
@@ -102,6 +126,40 @@ GROUP BY
     customerid
 ORDER BY
     total_spent DESC;
+
+--- Customer Purchase Behaviour and Frequency By Gender
+SELECT
+    gender,
+    COUNT(*) AS purchase_frequency,
+    SUM(price * quantity) AS total_spent,
+    AVG(price) AS average_purchase_value
+FROM customer_data
+INNER JOIN sales_data ON customer_data.customerid = sales_data.customerid
+GROUP BY gender
+ORDER BY total_spent DESC;
+
+--- Customer Purhase Behaviour and Frequency By Location
+SELECT
+    location,
+    COUNT(*) AS purchase_frequency,
+    SUM(price * quantity) AS total_spent,
+    AVG(price) AS average_purchase_value
+FROM customer_data
+INNER JOIN sales_data ON customer_data.customerid = sales_data.customerid
+GROUP BY location
+ORDER BY total_spent DESC;
+
+--- Customer Purchase Behaviour and Frequency By Age-group
+SELECT
+    age-group,
+    COUNT(*) AS purchase_frequency,
+    SUM(price * quantity) AS total_spent,
+    AVG(price) AS average_purchase_value
+FROM customer_data
+INNER JOIN sales_data ON customer_data.customerid = sales_data.customerid
+GROUP BY age-group
+ORDER BY total_spent DESC;
+
 
 --- Monthly Sales Trend
 SELECT MONTH(transaction_date) AS month,
