@@ -63,7 +63,7 @@ The primary objectives of this analysis are:
   ### Stakeholder
 - Sales Team: The sales team are interested in understanding online sales trends and performance metrics to improve sales strategies
 - Marketing Team: The marketing team aims to optimize digital marketing campaigns and promotions based on the analysis of the sales data
-  ### Tools Used
+ ### Tools Used
 - Structured Query Language: SQL was utilized for data cleaning and analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Superstore%20Sales%20Analysis)
 - Tableau: Tableau was utilized to create an interactive dashboard to present findings [View Here](https://public.tableau.com/app/profile/timilehin.egbeyemi/viz/SuperstoreSalesAnalysisDashboard_17206424371240/SuperstoreSalesOverview)
  ### Analysis and Findings
