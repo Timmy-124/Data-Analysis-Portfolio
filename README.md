@@ -24,7 +24,8 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
 ### Stakeholder
    Human Resources (HR) Department: The HR team is the primary stakeholder responsible for employee recruitment, retention, and engagement. They are particularly interested in understanding the drivers of attrition and implementing strategies to retain talent 
 ### Tools Used
-- Structured Query Language (SQL): SQL was utilized for cleaning and analyzing the data [View Here](https://github.com/Timmy-124/SQL-Portfolio/blob/main/Employee%20Attrition%20Analysis)
+- Microsoft Excel: Excel was used for data cleaning by applying various functions to identify missing values, remove duplicates, check for misspellings and standardize date formats
+- Structured Query Language (SQL): SQL was utilized for analyzing the data [View Here](https://github.com/Timmy-124/SQL-Portfolio/blob/main/Employee%20Attrition%20Analysis)
 - Tableau: Tableau was utilized to create an interactive dashboard to present findings [View Here](https://public.tableau.com/app/profile/timilehin.egbeyemi/viz/EmployeeAttritionDashboard_17201754430620/EmployeeAttritionDashb_)
  ### Analysis and Findings
  ### Overall Attrition & Segment Analysis
@@ -64,7 +65,8 @@ The primary objectives of this analysis are:
 - Sales Team: The sales team are interested in understanding online sales trends and performance metrics to improve sales strategies
 - Marketing Team: The marketing team aims to optimize digital marketing campaigns and promotions based on the analysis of the sales data
  ### Tools Used
-- Structured Query Language: SQL was utilized for data cleaning and analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Superstore%20Sales%20Analysis)
+- Microsoft Excel: Excel was used for data cleaning by applying various functions to identify missing values, remove duplicates, check for misspellings and standardize date formats
+- Structured Query Language: SQL was utilized for analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Superstore%20Sales%20Analysis)
 - Tableau: Tableau was utilized to create an interactive dashboard to present findings [View Here](https://public.tableau.com/app/profile/timilehin.egbeyemi/viz/SuperstoreSalesAnalysisDashboard_17206424371240/SuperstoreSalesOverview)
  ### Analysis and Findings
  ### Monthly sales trends
@@ -102,7 +104,8 @@ The primary objectives of this analysis are:
   ### Stakeholder
 Marketing Team: The marketing team is interested in understanding the different customer segments to create personalized marketing campaigns
   ### Tools Used
-- Structured Query Language: SQL was utilized for data cleaning and analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Customer%20Segmentation%20Analysis)
+- Microsoft Excel: Excel was used for data cleaning by applying various functions to identify missing values, remove duplicates, check for misspellings and standardize date formats
+- Structured Query Language: SQL was utilized for analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Customer%20Segmentation%20Analysis)
  ### Analysis and Findings
  ### Demographics and Purchasing Behaviour
 1. Gender: Female customers exhibited the highest purchasing frequency and contributed the most to total sales, while male customers trailed in purchasing frequency and sales volume
