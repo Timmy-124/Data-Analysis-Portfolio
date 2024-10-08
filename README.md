@@ -50,7 +50,7 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
   5. Strenghten Employee Engagement: Employees who work as laboratory and technicians should be given a huge amount of attention due to a very high attrition rate, by conducting regular 
      employee satisfaction surveys and take proactive measures based on feedback to improve employee satisfactions and reduce employee attrition. Fostering a positive workplace culture 
      by recognizing employee contribution, promoting teamwork, and providing opportunities for social interaction can improve employee retention.
-  6. Monitoring KPIs: KPIs used in monitoring attrition rates by department, tenure and job role should be reviewed quarterly to assess the effectiveness of retention strategies.
+  6. Monitoring KPIs: KPIs such as, attrition rates by department, tenure and job role should be reviewed quarterly to assess the effectiveness of retention strategies.
   ## Superstore Sales Analysis
    ### Case Study: Sales Analysis for "Mega Mart" Superstore
    ### Overview
