@@ -1,4 +1,4 @@
---- This range of SQL queries tackles a range of business questions aimed at understanding customer churn patterns.These queries provide actionable insights to support data-driven decisions in reducing churn and improving customer loyalty. 
+--- This range of SQL queries tackles a range of business questions aimed at understanding customer churn patterns and provides actionable insights to support data-driven decisions in reducing churn and improving customer loyalty. 
 
 --- What is the overall customer churn rate
 SELECT 
