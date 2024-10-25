@@ -1,0 +1,108 @@
+--- What is the overall customer churn rate
+SELECT 
+      (COUNT(CASE WHEN churn = 'Yes' THEN 1 END) * 100) / COUNT(*) AS churn_rate
+FROM customer_churn;
+
+--- What is the churn rate segmented by customer tenure?
+SELECT 
+      tenure,
+	  ( COUNT(CASE WHEN churn = 'Yes' THEN 1 END) * 100) / COUNT(*) AS churn_rate
+FROM customer_churn
+GROUP BY tenure
+ORDER BY churn_rate ASC;
+
+--- What is the churn rate by customer age-group
+WITH age_range AS ( 
+   SELECT
+        CASE 
+           WHEN age < 25 THEN 'Under 25'
+           WHEN age BETWEEN 25 AND 35 THEN '25-35'
+           WHEN age BETWEEN 36 AND 50 THEN '36-50'
+           ELSE '51+' 
+        END AS age_group,
+	(COUNT(CASE WHEN churn = 'Yes' THEN 1 END) * 100) / COUNT(*) AS churn_rate
+  FROM customer_churn
+  GROUP BY 
+         CASE 
+           WHEN age < 25 THEN 'Under 25'
+           WHEN age BETWEEN 25 AND 35 THEN '25-35'
+           WHEN age BETWEEN 36 AND 50 THEN '36-50'
+           ELSE '51+'
+		 END
+)
+SELECT age_group,
+       churn_rate
+FROM age_range
+ORDER BY churn_rate DESC;
+
+--- How does churn rate differ from account balance?
+WITH balance_group AS (
+       SELECT 
+	       CASE
+		          WHEN balance < 5000 THEN 'Under $5,000'
+              WHEN balance BETWEEN 5000 AND 20000 THEN '$5,000 - $20,000'
+              WHEN balance BETWEEN 21000 AND 40000 THEN '$21,000 - $40,000'
+			        WHEN balance BETWEEN 41000 AND 60000 THEN '$41,000 - $60,000'
+			        WHEN balance BETWEEN 61000 AND 80000 THEN '$61,000 - $80,000'
+			        WHEN balance BETWEEN 81000 AND 100000 THEN '$81,000 - $100,000'
+			  ELSE 'Above $110,000' 
+          END AS balance_range,
+       (COUNT(CASE WHEN churn = 'Yes' THEN 1 END) * 100) / COUNT(*) AS churn_rate
+  FROM customer_churn
+  GROUP BY 
+         CASE
+		      WHEN balance < 5000 THEN 'Under $5,000'
+          WHEN balance BETWEEN 5000 AND 20000 THEN '$5,000 - $20,000'
+          WHEN balance BETWEEN 21000 AND 40000 THEN '$21,000 - $40,000'
+			    WHEN balance BETWEEN 41000 AND 60000 THEN '$41,000 - $60,000'
+			    WHEN balance BETWEEN 61000 AND 80000 THEN '$61,000 - $80,000'
+			    WHEN balance BETWEEN 81000 AND 100000 THEN '$81,000 - $100,000'
+			  ELSE 'Above $110,000' 
+           END
+)
+
+SELECT balance_range,
+       churn_rate
+FROM balance_group;
+
+--- How does customer geography affect churn?
+SELECT location,
+       (COUNT(CASE WHEN churn = 'Yes' THEN 1 END) * 100) / COUNT(*) AS churn_rate
+FROM customer_churn
+GROUP BY geography
+ORDER BY churn_rate DESC;
+
+--- Which customer segment has the highest churn risk?
+SELECT 
+    CASE 
+        WHEN tenure < 1 THEN 'New Customers (Tenure < 1 year)'
+        WHEN balance < 5000 THEN 'Low Balance (< $5,000)'
+        WHEN activity_status = 'No' THEN 'Active Member (No)'
+		ELSE 'Others'
+    END AS customer_segment,
+    (COUNT(CASE WHEN churn = 'Yes' THEN 1 END) * 100.0) / COUNT(*) AS churn_rate
+FROM customer_churn
+GROUP BY 
+     CASE 
+        WHEN tenure < 1 THEN 'New Customers (Tenure < 1 year)'
+        WHEN balance < 5000 THEN 'Low Balance (< $5,000)'
+        WHEN activity_status = 'No' THEN 'Active Member (No)'
+		ELSE 'Others'
+      END
+
+--- What is the total revenue loss due to churned customers?
+SELECT SUM(balance) AS loss_revenue
+FROM customer_churn
+WHERE churn = 'Yes'
+
+--- Does being an active customer reduce the likelihood of churn?
+SELECT activity_status,
+       COUNT(CASE WHEN churn = 'Yes' THEN 1 END) * 100 / COUNT(*) AS churn_rate
+FROM customer_churn
+GROUP BY activity_status;
+
+--- Does having a credit card affect churn?
+SELECT hascrcard,
+       COUNT(CASE WHEN churn = 'Yes' THEN 1 END) * 100 / COUNT(*) AS churn_rate
+FROM customer_churn
+GROUP BY hascrcard;
