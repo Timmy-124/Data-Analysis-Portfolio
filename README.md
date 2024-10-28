@@ -6,6 +6,7 @@
       - [Employee Attrition Analysis](#Employee-Attrition-Analysis)
       - [Superstore Sales Analysis](#Superstore-Sales-Analysis)
       - [Customer Segmentation Analysis](#Customer-Segmentation-Analysis)
+      - [Customer Churn Analysis](#Customer-Churn-Analysis)
 
   ## About
 Hi, I'm Timilehin. I am a dedicated Data Analyst with a passion for translating data into meaningful insights that drive informed business decisions. I specialize in using tools like Excel, SQL, and Tableau to uncover trends, optimize processes, and delivering clear data-driven solutions. My portfolio showcases a diverse range of projects where i specialize in simplifying business problems, performing data analysis and visualization, and offering actionable, data-driven insights and solutions.
@@ -24,7 +25,7 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
 ### Stakeholder
    Human Resources (HR) Department: The HR team is the primary stakeholder responsible for employee recruitment, retention, and engagement. They are particularly interested in understanding the drivers of attrition and implementing strategies to retain talent 
 ### Tools Used
-- Microsoft Excel: Excel was used for data cleaning by applying various functions to identify missing values, remove duplicates, check for misspellings and standardize date formats
+- Microsoft Excel: Excel was used for data cleaning by applying various functions to identify missing values, remove duplicates, check for outliers and check for misspellings 
 - Structured Query Language (SQL): SQL was utilized for analyzing the data [View Here](https://github.com/Timmy-124/SQL-Portfolio/blob/main/Employee%20Attrition%20Analysis)
 - Tableau: Tableau was utilized to create an interactive dashboard to present findings [View Here](https://public.tableau.com/app/profile/timilehin.egbeyemi/viz/EmployeeAttritionDashboard_17201754430620/EmployeeAttritionDashb_)
  ### Analysis and Findings
@@ -104,7 +105,7 @@ The primary objectives of this analysis are:
   ### Stakeholder
 Marketing Team: The marketing team is interested in understanding the different customer segments to create personalized marketing campaigns
   ### Tools Used
-- Microsoft Excel: Excel was used for data cleaning by applying various functions to identify missing values, remove duplicates, check for misspellings and standardize date formats
+- Microsoft Excel: Excel was used for data cleaning by applying various functions to identify missing values, remove duplicates, check for outliers and check for misspellings 
 - Structured Query Language: SQL was utilized for analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Customer%20Segmentation%20Analysis)
  ### Analysis and Findings
  ### Demographics and Purchasing Behaviour
@@ -124,7 +125,22 @@ Marketing Team: The marketing team is interested in understanding the different 
 - High-value customers from Chicago could receive special discounts.
 - Personalized offers could target the 36–45 age group, the age-group with the highest purchasing frequency
 3. Regular Analysis: Conduct periodic reviews and updates of customer segments to ensure marketing strategies remain effective and relevant
- 
+  ## Customer Churn Analysis
+   ### Case Study: Customer Churn Analysis for "Good Bank" Bank
+  "Good Bank", a fictional bank is experiencing higher customer churn rates and aims to understand the underlying reasons. The bank's marketing and customer service teams have requested an analysis to identify which customers are most likely to churn and the factors contributing to this churn. This analysis aims to understand customer behavior, segment at-risk customers, and recommend actionable insights to improve retention.
+  ### Business Objectives
+ The primary objective of this analysis are:
+1. Identifying customers at risk of churning
+2. Understanding the key drivers of churn
+3. Providing actionable recommendations to retain high-value customers and reduce overall churn
+4. Optimize customer retention strategies inorder to design more targeted marketing and service efforts
+  ### Stakeholders
+1. Marketing Team: The Marketing team are focused on customer segmentation and designing targeted campaigns to reduce churn.
+2. Customer Service Team: The customer service team are interested in identifying dissatisfaction factors to improve service offerings.
+3. Bank Executives: Concerned with overall customer retention metrics and the financial impact of churn on the business.
+  ### Tools Used
+1. Microsoft Excel: Excel was used for data cleaning by applying various functions to identify missing values, remove duplicates, check for outliers and check for misspellings
+2. Structured Query Language (SQL): SQL was utilized for analysis
      
   
   
