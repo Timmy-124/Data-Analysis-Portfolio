@@ -127,20 +127,45 @@ Marketing Team: The marketing team is interested in understanding the different 
 3. Regular Analysis: Conduct periodic reviews and updates of customer segments to ensure marketing strategies remain effective and relevant
   ## Customer Churn Analysis
    ### Case Study: Customer Churn Analysis for "Good Bank" Bank
-  "Good Bank", a fictional bank is experiencing higher customer churn rates and aims to understand the underlying reasons. The bank's marketing and customer service teams have requested an analysis to identify which customers are most likely to churn and the factors contributing to this churn. This analysis aims to understand customer behavior, segment at-risk customers, and recommend actionable insights to improve retention.
+  "Good Bank", a fictional bank, who has operations in just France, Germany and Spain is experiencing higher customer churn rates and aims to understand the underlying reasons. The bank's marketing and customer service teams have requested an analysis to identify which customers are most likely to churn and the factors contributing to this churn. This analysis aims to understand customer behavior, segment at-risk customers, and recommend actionable insights to improve retention.
   ### Business Objectives
  The primary objective of this analysis are:
-1. Identifying customers at risk of churning
-2. Understanding the key drivers of churn
+1. Understanding the key drivers of churn
+2. Identifying customers at risk of churning
 3. Providing actionable recommendations to retain high-value customers and reduce overall churn
 4. Optimize customer retention strategies inorder to design more targeted marketing and service efforts
   ### Stakeholders
 1. Marketing Team: The Marketing team are focused on customer segmentation and designing targeted campaigns to reduce churn.
-2. Customer Service Team: The customer service team are interested in identifying dissatisfaction factors to improve service offerings.
+2. Customer Success Team: The customer service team are interested in identifying dissatisfaction factors to improve service offerings.
 3. Bank Executives: Concerned with overall customer retention metrics and the financial impact of churn on the business.
   ### Tools Used
 1. Microsoft Excel: Excel was used for data cleaning by applying various functions to identify missing values, remove duplicates, check for outliers and check for misspellings
-2. Structured Query Language (SQL): SQL was utilized for analysis
+2. Structured Query Language (SQL): SQL was utilized for analysis[View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Customer%20Churn%20Analysis)
+3. Tableau: Tableau was utilized to create an interactive dashboard[View Here](https://public.tableau.com/app/profile/timilehin.egbeyemi/viz/CustomerChurnDashboard_17298486663010/CustomerChurnDashboard)
+  ### Analysis and Findings
+  ### KPIs and Key Metrics
+1. Churn Rate: The overall churn rate was calculated as 21%
+2. Total Number of Active Customers: The total number of active customers is 2,311, indicating the total number of customers that are still actively using the "Good Bank"
+3. Total Number of Churned Customers: The total number of churned customers is 613, indicating the total number of customers that left "Good Bank"
+  ### Demographics 
+1. Age: Customers who churned were mostly between 36-45 years old. Younger customers (below 25) and older customers (above 70) showed lower churn rates.
+2. Gender: Female customers showed higher churn rate of 25% than the male customers with 16%
+3. Geography: Germany has the highest churn rate with 31%, with France and Spain with lower churn rate
+  ### Key Drivers of Churn
+1. Account Balance: Customers with lower account balances (below $50,000) had significantly higher churn rates, possibly due to limited engagement with the bank’s services.
+2. Credit Score: Customers with low credit scores (below 600) were more likely to churn, indicating a potential relationship between financial instability and churn 
+3. Tenure: Customers that had a tenure of below 5 years had higher churn rate than customers with over 6 years of tenure with the bank
+4. Transaction Frequency: Customers with fewer than 2 transactions per month were more likely to leave the bank suggesting infrequent transaction activity is a key driver of churn
+5. Product Usage: Customers that only use one bank product have higher churn rates, compared to those who use three or more products.
+6. Credit Cards: Customers with active credit cards have lower churn rates compared to customers that don't have credit cards indicating increased activity of the customer.
+   ### Customers Risk of Churning
+1. New Customers (Tenure < 2 years): High churn risk, especially if transaction activity is low.
+2. Low-Balance Customers (Account Balance < $50,000): These customers has a high probablity to churn, especially if they have customer service complaints.
+3. Frequent Transactors (Transactions > 10/month): Low churn risk, very active customers.
+4. High-Credit Customers (Credit Score > 700): Typically more loyal, but churn rates can increase if they experience customer service complaints.
+   ### Recommendations
+1. 
+
      
   
   
