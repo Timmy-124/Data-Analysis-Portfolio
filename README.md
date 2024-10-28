@@ -164,7 +164,14 @@ Marketing Team: The marketing team is interested in understanding the different 
 3. Frequent Transactors (Transactions > 10/month): Low churn risk, very active customers.
 4. High-Credit Customers (Credit Score > 700): Typically more loyal, but churn rates can increase if they experience customer service complaints.
    ### Recommendations
-1. 
+1. Targeting New Customers Early: Provide personalized offers, discounts, or loyalty rewards for new customers who maintain a certain transaction frequency or account balance and also 
+   implement an onboarding program for new customers to increase engagement within the first two years
+2. Increase Engagement for Low-Balance Customers: Offer special savings programs or additional services to customers with low account balances to encourage more frequent 
+   use of bank services.
+3. Improve Customer Service: Introduce proactive customer service initiatives such as monthly check-ins or satisfaction surveys for customers who have lodged complaints.
+4. Promote Transaction Frequency: Launch campaigns to incentivize regular use of banking services, such as offering rewards for customers who make a certain number of 
+   transactions per month.
+5. Regional Outreach: Tailor retention strategies to high-churn regions such as France, potentially offering more region-specific services or improving customer support.
 
      
   
