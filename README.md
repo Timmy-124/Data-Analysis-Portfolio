@@ -140,8 +140,8 @@ Marketing Team: The marketing team is interested in understanding the different 
 3. Bank Executives: Concerned with overall customer retention metrics and the financial impact of churn on the business.
   ### Tools Used
 1. Microsoft Excel: Excel was used for data cleaning by applying various functions to identify missing values, remove duplicates, check for outliers and check for misspellings
-2. Structured Query Language (SQL): SQL was utilized for analysis[View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Customer%20Churn%20Analysis)
-3. Tableau: Tableau was utilized to create an interactive dashboard[View Here](https://public.tableau.com/app/profile/timilehin.egbeyemi/viz/CustomerChurnDashboard_17298486663010/CustomerChurnDashboard)
+2. Structured Query Language (SQL): SQL was utilized for analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Customer%20Churn%20Analysis)
+3. Tableau: Tableau was utilized to create an interactive dashboard [View Here](https://public.tableau.com/app/profile/timilehin.egbeyemi/viz/CustomerChurnDashboard_17298486663010/CustomerChurnDashboard)
   ### Analysis and Findings
   ### KPIs and Key Metrics
 1. Churn Rate: The overall churn rate was calculated as 21%
@@ -172,8 +172,7 @@ Marketing Team: The marketing team is interested in understanding the different 
 4. Promote Transaction Frequency: Launch campaigns to incentivize regular use of banking services, such as offering rewards for customers who make a certain number of 
    transactions per month.
 5. Regional Outreach: Tailor retention strategies to high-churn regions such as France, potentially offering more region-specific services or improving customer support.
-6. Personalized Marketing Campaigns: Design targeted offers for younger customers to compete with alternative financial services, such as digital banking incentives and also engaging 
-   single-product users with promotional offers for savings or loan products to encourage multi-product usage.
+6. Personalized Marketing Campaigns: Design targeted offers for younger customers to compete with alternative financial services, such as digital banking incentives and also engaging single-product users with promotional offers for savings or loan products to encourage multi-product usage.
 
      
   
