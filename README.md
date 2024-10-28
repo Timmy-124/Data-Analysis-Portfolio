@@ -172,6 +172,8 @@ Marketing Team: The marketing team is interested in understanding the different 
 4. Promote Transaction Frequency: Launch campaigns to incentivize regular use of banking services, such as offering rewards for customers who make a certain number of 
    transactions per month.
 5. Regional Outreach: Tailor retention strategies to high-churn regions such as France, potentially offering more region-specific services or improving customer support.
+6. Personalized Marketing Campaigns: Design targeted offers for younger customers to compete with alternative financial services, such as digital banking incentives and also engaging 
+   single-product users with promotional offers for savings or loan products to encourage multi-product usage.
 
      
   
