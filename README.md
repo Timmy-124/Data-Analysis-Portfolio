@@ -130,7 +130,7 @@ Marketing Team: The marketing team is interested in understanding the different 
 3. Regular Analysis: Conduct periodic reviews and updates of customer segments to ensure marketing strategies remain effective and relevant
   ## Customer Churn Analysis
    ### Case Study: Customer Churn Analysis for "Good Bank" Bank
-  "Good Bank", a fictional bank, who has operations in just France, Germany and Spain is experiencing higher customer churn rates and aims to understand the underlying reasons. The bank's marketing and customer service teams have requested an analysis to identify which customers are most likely to churn and the factors contributing to this churn. This analysis aims to understand customer behavior, segment at-risk customers, and recommend actionable insights to improve retention.
+  "Good Bank", a fictional bank, who has operations in just France, Germany and Spain is experiencing higher customer churn rates and aims to understand the underlying reasons. The bank's marketing and customer success teams have requested an analysis to identify which customers are most likely to churn and the factors contributing to this churn. This analysis aims to understand customer behavior, segment at-risk customers, and recommend actionable insights to improve retention.
   ### Business Objectives
  The primary objective of this analysis are:
 1. Understanding the key drivers of churn
@@ -139,7 +139,7 @@ Marketing Team: The marketing team is interested in understanding the different 
 4. Optimize customer retention strategies inorder to design more targeted marketing and service efforts
   ### Stakeholders
 1. Marketing Team: The Marketing team are focused on customer segmentation and designing targeted campaigns to reduce churn.
-2. Customer Success Team: The customer service team are interested in identifying dissatisfaction factors to improve service offerings.
+2. Customer Success Team: The customer success team are interested in identifying dissatisfaction factors to improve service offerings.
 3. Bank Executives: Concerned with overall customer retention metrics and the financial impact of churn on the business.
   ### Tools Used
 1. Microsoft Excel: Excel was used for data cleaning by applying various functions to identify missing values, remove duplicates, check for outliers and check for misspellings
