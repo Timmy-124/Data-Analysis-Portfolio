@@ -16,7 +16,7 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
  ## Employee Attrition Analysis
    ### Case Study: Employee Attrition Analysis for "Sweet Life" Healthcare Company
    ### Overview
-   “Sweet Life”, a fictional healthcare company, has high employee attrition which has become a significant concern for the company. The cost of recruiting, training, and integrating new employees is substantial. Furthermore, high turnover disrupts team dynamics and knowledge continuity, leading to potential delays in project delivery and a decline in service quality. The Human Resources (HR) department prompted the need for a comprehensive analysis to identify the root causes and develop strategies to reduce turnover. 
+   “Sweet Life”, a fictional healthcare company, has noticed high employee turnover which has become a significant concern for the company. The cost of recruiting, training, and integrating new employees is substantial. Furthermore, high turnover disrupts team dynamics and knowledge continuity, leading to potential delays in project delivery and a decline in service quality. The Human Resources (HR) department prompted the need for a comprehensive analysis to identify the root causes and develop strategies to reduce turnover. 
 ### Objectives
    The primary objectives of this analysis are; 
    1. Identifying key drivers of attrition
@@ -29,12 +29,15 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
 - Structured Query Language (SQL): SQL was utilized for analyzing the data [View Here](https://github.com/Timmy-124/SQL-Portfolio/blob/main/Employee%20Attrition%20Analysis)
 - Tableau: Tableau was utilized to create an interactive dashboard to present findings [View Here](https://public.tableau.com/app/profile/timilehin.egbeyemi/viz/EmployeeAttritionDashboard_17201754430620/EmployeeAttritionDashb_)
  ### Analysis and Findings
+ ### KPIs and Key Metrics
+ 1. Attrition Rate: The total attrition rate was calculated as 16.12%
+ 2. Total Attrition Count: The total number of employees that left the company is 237
+ 3. Total Number of Active Employee: The total number of active employee is 1,233
  ### Overall Attrition & Segment Analysis
-  1. The total attrition rate was calculated as 16.12% indicating the percentage of employees who left with an attrition count of 237 employees.
-  2. The highest turn over was observed in the Research and Development Department, with rate of 56.12%
-  3. Male employees have higher attrition rate than the female employees with 63.29%
-  4. Laboratory and technician job role had the highest attrition rate with 26.16%
-  5. Younger employees (aged 26-35) with 1-2 years of tenure were more likely to leave the company. This group accounted for 48.95% of the total attrition
+  1. The highest turn over was observed in the Research and Development Department, with rate of 56.12%
+  2. Male employees have higher attrition rate than the female employees with 63.29%
+  3. Laboratory and technician job role had the highest attrition rate with 26.16%
+  4. Younger employees (aged 26-35) with 1-2 years of tenure were more likely to leave the company. This group accounted for 48.95% of the total attrition
   ### Key Drivers of Attrition
   1. Salary: Employees who earns less than $3,000 monthly were most likely to leave the company
   2. Job Satisfaction: Employees who rated their job satisfaction as below average had the higher chance of leaving the company
@@ -55,7 +58,7 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
   ## Superstore Sales Analysis
    ### Case Study: Sales Analysis for "Mega Mart" Superstore
    ### Overview
-"Market Mart", a fictional supermarket, is a large online supermarket. It sells a wide range of products including electronics, furnitures, and office supplies. The Sales and Marketing team at "Market Mart" has requested a comprehensive analysis of the store's sales data. The goal is to identify key trends and insights that will help in improving sales performance and enhancing tailored marketing strategies. The analysis will support decision-making and strategic planning to boost overall profitability and customer satisfaction. 
+"Market Mart", a fictional supermarket, is a large online supermarket. It sells a wide range of products including electronics, furnitures, and office supplies. The Sales and Marketing team at "Market Mart" has requested a comprehensive analysis of the store's sales data for the year, 2014. The goal is to identify key trends and insights that will help in improving sales performance and enhancing tailored marketing strategies. The analysis will support decision-making and strategic planning to boost overall profitability and customer satisfaction. 
   ### Objectives
 The primary objectives of this analysis are:
    1. Analyze monthly sales trends to identify patterns and peak periods
@@ -96,7 +99,7 @@ The primary objectives of this analysis are:
  4. Expand Loyalty Program: Enhance the loyalty program to increase participation and offer rewards based on spending levels to encourage higher transaction values.
  ## Customer Segmentation Analysis
   ### Case Study: Customer Segmentation Analysis for "Good Wear" E-Commerce
-"Good Electronics", a fictional E-Commerce, has been experiencing fluctuating sales and is struggling to retain customers. The E-Commerce offers a wide range of products. The marketing team has requested a detailed customer segmentation analysis. The goal is to understand the distinct segments within the customer base to tailor marketing strategies effectively and improve customer engagement
+"Good Electronics", a fictional E-Commerce, has been experiencing fluctuating sales and is struggling to retain customers. The marketing team has requested a detailed customer segmentation analysis. The goal is to understand the distinct segments within the customer base to tailor marketing strategies effectively and improve customer engagement
   ### Objectives
 The primary objectives of this analysis are:
 1. Identify key customer segments based on purchasing behaviour and demographics
