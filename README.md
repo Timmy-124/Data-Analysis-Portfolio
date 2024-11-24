@@ -76,7 +76,7 @@ The primary objectives of this analysis are:
  ### Monthly sales trends
 1. Seasonality Impact: Online sales showed significant peaks during holiday seasons, particularly in November and December, accounting for 27.63% of the total annual sales
 2. Consistent Growth: Overall, there was a consistent month-over-month growth rate across the year, with noticeable dips in January and February, which could be attributed to post-holiday slow-downs
-3. Sales Deline in Mid-Year: A slight decline in sales was observed during the summer months (June and July) 
+3. Sales Decline in Mid-Year: A slight decline in sales was observed during the summer months (June and July) 
  ### Product Performance
 1. Best-Selling Products:
     * Top Categories: Technology emerged as the top-selling product categories, contributing to 37% of the total sales
