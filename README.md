@@ -135,7 +135,7 @@ Marketing Team: The marketing team is interested in understanding the different 
 3. Regular Analysis: Conduct periodic reviews and updates of customer segments to ensure marketing strategies remain effective and relevant
   ## Customer Churn Analysis
    ### Case Study: Customer Churn Analysis for "Good Bank" Bank
-  "Good Bank", a fictional bank, who has operations in just France, Germany and Spain is experiencing higher customer churn rates and aims to understand the underlying reasons. The bank's marketing and customer success teams have requested an analysis to identify which customers are most likely to churn and the factors contributing to this churn. This analysis aims to understand customer behavior, segment at-risk customers, and recommend actionable insights to improve retention.
+  "Good Bank," a fictional bank operating in France, Germany, and Spain, has been facing increased customer churn and seeks to identify the underlying causes. The marketing and customer success teams have requested a comprehensive analysis to pinpoint the factors contributing to churn and determine which customer segments are most at risk. This analysis will focus on understanding customer behavior, segmenting at-risk customers, and providing actionable recommendations to enhance retention strategies. The analysis will cover customer data from the past 12 months to identify trends and patterns in churn behavior.
   ### Business Objectives
  The primary objective of this analysis are:
 1. Understanding the key drivers of churn
