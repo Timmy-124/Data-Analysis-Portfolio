@@ -58,7 +58,7 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
   ## Superstore Sales Analysis
    ### Case Study: Sales Analysis for "Mega Mart" Superstore
    ### Overview
-"Market Mart", a fictional supermarket, is a large supermarket. It sells a wide range of products including electronics, furnitures, and office supplies. The Sales and Marketing team at "Market Mart" has requested a comprehensive analysis of the store's sales data for the year for the previous year to develop targeted marketing strategies for the present year. The goal is to identify key trends and insights that will help in improving sales performance and enhancing tailored marketing strategies. The analysis will support decision-making and strategic planning to boost overall profitability and customer satisfaction. 
+"Market Mart," a large supermarket offering a diverse range of products such as electronics, furniture, and office supplies, has tasked the Sales and Marketing team with enhancing its marketing strategies for the current year. To achieve this, the team requires a detailed analysis of the store's sales data from January 1st to December 31st of the previous year. The primary objectives of the analysis are to uncover key sales trends, identify high-performing and underperforming product categories, and provide actionable insights to improve sales performance, develop tailored marketing campaigns, and enhance overall customer satisfaction. This analysis will guide strategic planning aimed at increasing profitability in the present year.
   ### Objectives
 The primary objectives of this analysis are:
    1. Analyze monthly sales trends to identify patterns and peak periods
@@ -73,6 +73,11 @@ The primary objectives of this analysis are:
 - Structured Query Language: SQL was utilized for analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Superstore%20Sales%20Analysis)
 - Tableau: Tableau was utilized to create an interactive dashboard to present findings [View Here](https://public.tableau.com/app/profile/timilehin.egbeyemi/viz/SuperstoreSalesAnalysisDashboard_17206424371240/SuperstoreSalesOverview)
  ### Analysis and Findings
+ ### KPIs And Metrics
+1. Total Sales: The supermarket generated $733,947 in total sales in the previous year
+2. Total Profit: The supermarket generated $93,508 in total profit in the previous year
+3. Profit Margin: The supermarket attained 12.4% profit margin
+4. Average Order Value: The average order value is $221 in the previous year
  ### Monthly sales trends
 1. Seasonality Impact: Online sales showed significant peaks during holiday seasons, particularly in November and December, accounting for 27.63% of the total annual sales
 2. Consistent Growth: Overall, there was a consistent month-over-month growth rate across the year, with noticeable dips in January and February, which could be attributed to post-holiday slow-downs
