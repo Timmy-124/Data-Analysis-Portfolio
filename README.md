@@ -103,8 +103,8 @@ The primary objectives of this analysis are:
  3. Enhance Digital Marketing Strategies: Online promotions for under performing products can significantly improve customer engagements with the product and generate more sales
  4. Expand Loyalty Program: Enhance the loyalty program to increase participation and offer rewards based on spending levels to encourage higher transaction values.
  ## Customer Segmentation Analysis
-  ### Case Study: Customer Segmentation Analysis for "Good Wear" E-Commerce
-"Good Electronics", a fictional E-Commerce, has been experiencing fluctuating sales and is struggling to retain customers. The marketing team has requested a detailed customer segmentation analysis. The goal is to understand the distinct segments within the customer base to tailor marketing strategies effectively and improve customer engagement
+  ### Case Study: Customer Segmentation Analysis for "Good Electronics" E-Commerce
+"Good Electronics," a fictional e-commerce platform, has observed inconsistent sales trends and challenges in retaining customers. To address these issues, the marketing team has requested a detailed customer segmentation analysis to identify distinct customer groups. This analysis will cover customer data from January 2019 to December 2019 to develop targeted marketing strategies and enhance customer engagement.
   ### Objectives
 The primary objectives of this analysis are:
 1. Identify key customer segments based on purchasing behaviour and demographics
