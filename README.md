@@ -102,37 +102,6 @@ The primary objectives of this analysis are:
  2. Holiday Season Preparation: Begin holiday season preparations early, including stocking up on best-selling products and planning special promotions to maximize sales like Black Friday
  3. Enhance Digital Marketing Strategies: Online promotions for under performing products can significantly improve customer engagements with the product and generate more sales
  4. Expand Loyalty Program: Enhance the loyalty program to increase participation and offer rewards based on spending levels to encourage higher transaction values.
- ## Customer Segmentation Analysis
-  ### Case Study: Customer Segmentation Analysis for "Good Electronics" E-Commerce
-"Good Electronics," a fictional e-commerce platform, has observed inconsistent sales trends and challenges in retaining customers. To address these issues, the marketing team has requested a detailed customer segmentation analysis to identify distinct customer groups. This analysis will cover customer data from January to December of the previous year to develop targeted marketing strategies and enhance customer engagement.
-  ### Objectives
-The primary objectives of this analysis are:
-1. Identify key customer segments based on purchasing behaviour and demographics
-2. Analyze each segment product preferences
-3. Provide actionable insights for the marketing team to develop targeted campaigns for each segment
-  ### Stakeholder
-Marketing Team: The marketing team is interested in understanding the different customer segments to create personalized marketing campaigns
-  ### Tools Used
-- Microsoft Excel: Excel was used for data cleaning by applying various functions to identify missing values, remove duplicates, check for outliers and check for misspellings 
-- Structured Query Language: SQL was utilized for analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Customer%20Segmentation%20Analysis)
- ### Analysis and Findings
- ### Demographics and Purchasing Behaviour
-1. Gender: Female customers exhibited the highest purchasing frequency and contributed the most to total sales, while male customers trailed in purchasing frequency and sales volume
-2. Location: Chicago customers had the highest purchasing frequency and accumulated the most sales out of all the locations, while Washington DC had lowest purchasing frequency and 
-  generated the least sales but accumulated highest average purchase value
-3. Age-Group: Age-Group 36-45 had the highest purchasing frequency and contributed the most to total sales, while age 55+ had the lowest purchasing frequency and generated the least overall sales
- ### Product Preferences
-1. Gender: Female customers preffered apparel products while Male customers preffered office products
-2. Location: Customers from California, New York, Chicago showed preferrence for Office Products while New York and Washington DC customers showed preferrence for apparel products
-3. Age-Group: Age-Groups 18-25, 26-35, 36-45 preffered office products while age-groups 46-55 and 55+ preferred Notebooks and journals products
- ### Recommendations
-1. Personalized Marketing Campaigns: The marketing team should create targeted email campaigns, social media ads, and promotions based on each segment’s product preferences. For example:
-- Female customers could receive promotions for apparel
-- Office product ads could be directed at male customers and those from locations like California, New York, and Chicago
-2. Customer Retention Strategies: Introduce loyalty programs and offer exclusive deals for high-value customers to increase retention. For instance:
-- High-value customers from Chicago could receive special discounts.
-- Personalized offers could target the 36–45 age group, the age-group with the highest purchasing frequency
-3. Regular Analysis: Conduct periodic reviews and updates of customer segments to ensure marketing strategies remain effective and relevant
   ## Customer Churn Analysis
    ### Case Study: Customer Churn Analysis for "Good Bank" Bank
   "Good Bank," a fictional bank operating in France, Germany, and Spain, has been facing increased customer churn and seeks to identify the underlying causes. The marketing and customer success teams have requested a comprehensive analysis to pinpoint the factors contributing to churn and determine which customer segments are most at risk. This analysis will focus on understanding customer behavior, segmenting at-risk customers, and providing actionable recommendations to enhance retention strategies. The analysis will cover customer data from the past 12 months to identify trends and patterns in churn behavior.
