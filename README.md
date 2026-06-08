@@ -14,7 +14,7 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
 
  ## Portfolio Projects
  ## Employee Attrition Analysis
-   ### Case Study: Employee Attrition Analysis for "Sweet Life" Healthcare Company
+   ### Case Study: Employee Attrition Analysis For "Sweet Life" Healthcare Company
    ### Overview
   “Sweet Life,” a fictional healthcare company, has experienced high employee turnover over the past 12 months, which has become a significant concern. The cost of recruiting, training, and integrating new employees during this period has been substantial. Additionally, the frequent departures have disrupted team dynamics and knowledge continuity, resulting in delays in project delivery and a noticeable decline in service quality. The Human Resources (HR) department has requested a comprehensive analysis to identify the root causes of employee turnover and propose actionable strategies to reduce it. 
 ### Objectives
@@ -56,7 +56,7 @@ I am constantly exploring new ways to enhance my skills, with a keen interest in
      by recognizing employee contribution, promoting teamwork, and providing opportunities for social interaction can improve employee retention.
   6. Monitoring KPIs: KPIs such as, attrition rates by department, tenure and job role should be reviewed quarterly to assess the effectiveness of retention strategies.
   ## Superstore Sales Analysis
-   ### Case Study: Sales Analysis for "Mega Mart" Superstore
+   ### Case Study: Sales Analysis For "Mega Mart" Superstore
    ### Overview
 "Market Mart," a large supermarket offering a diverse range of products such as electronics, furniture, and office supplies, has tasked the Sales and Marketing team with enhancing its marketing strategies for the current year. To achieve this, the team requires a detailed analysis of the store's sales data from January 1st to December 31st of the previous year. The primary objectives of the analysis are to uncover key sales trends, identify high-performing and underperforming product categories, and provide actionable insights to improve sales performance, develop tailored marketing campaigns, and enhance overall customer satisfaction. This analysis will guide strategic planning aimed at increasing profitability in the present year.
   ### Objectives
@@ -102,11 +102,27 @@ The primary objectives of this analysis are:
  2. Holiday Season Preparation: Begin holiday season preparations early, including stocking up on best-selling products and planning special promotions to maximize sales like Black Friday
  3. Enhance Digital Marketing Strategies: Online promotions for under performing products can significantly improve customer engagements with the product and generate more sales
  4. Expand Loyalty Program: Enhance the loyalty program to increase participation and offer rewards based on spending levels to encourage higher transaction values.
+  ## Customer Segmentation Analysis
+   ### Case Study: Customer Segmentation Analysis For "Veloura Chocolates - A Brand Of CocoaNest Foods"
+   CocoaNest Foods Ltd is a fictional FMCG company that manufactures and distributes a wide range of confectionery products across the United States. One of its flagship brands, "Veloura Chocolates", offers a diverse portfolio of chocolate products including everyday snack bars, premium dark chocolates, gift boxes, family-sized chocolate spreads, and bite-sized confectionery products. Despite experiencing consistent sales growth, management has become increasingly concerned about the effectiveness of its marketing efforts. Current marketing campaigns are broadly targeted and fail to account for the varying purchasing behaviors exhibited by customers. The objective of this analysis was to identify distinct customer groups based on their purchasing patterns, spending behavior, product preferences, and promotional responsiveness. This analysis will cover transactional sales data from Jan - Dec 2025 to understand customer purchasing patterns and spending behaviour.
+   ### Business Objectives
+  The primary objectives of this analysis are:
+ 1. Identifying and classifying customers into distinct segments
+ 2. Identifying high-value customer segments
+ 3. Understanding products preferences by each customer segments
+ 4. Improving marketing efficiency
+ 5. Supporting revenue growth
+   ### Stakeholders
+ Marketing Team: The marketing team are focused on understanding customer purchasing patterns for targeted marketing strategy to improve ROI.
+   ### Tools Used
+  1. Microsoft Excel: Excel was used for data cleaning by applying various functions to identify missing values, remove duplicates, check for outliers and check for misspellings
+  2. Structured Query Language (SQL): SQL was utilized for analysis
+    
   ## Customer Churn Analysis
-   ### Case Study: Customer Churn Analysis for "Good Bank" Bank
+   ### Case Study: Customer Churn Analysis For "Good Bank" Bank
   "Good Bank," a fictional bank operating in France, Germany, and Spain, has been facing increased customer churn and seeks to identify the underlying causes. The marketing and customer success teams have requested a comprehensive analysis to pinpoint the factors contributing to churn and determine which customer segments are most at risk. This analysis will focus on understanding customer behavior, segmenting at-risk customers, and providing actionable recommendations to enhance retention strategies. The analysis will cover customer data from the past 12 months to identify trends and patterns in churn behavior.
   ### Business Objectives
- The primary objective of this analysis are:
+ The primary objectives of this analysis are:
 1. Understanding the key drivers of churn
 2. Identifying customers at risk of churning
 3. Providing actionable recommendations to retain high-value customers and reduce overall churn
