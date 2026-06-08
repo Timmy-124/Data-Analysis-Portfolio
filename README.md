@@ -116,7 +116,8 @@ The primary objectives of this analysis are:
  Marketing Team: The marketing team are focused on understanding customer purchasing patterns for targeted marketing strategy to improve ROI.
    ### Tools Used
   1. Microsoft Excel: Excel was used for data cleaning by applying various functions to identify missing values, remove duplicates, check for outliers and check for misspellings
-  2. Structured Query Language (SQL): SQL was utilized for analysis
+  2. Structured Query Language (SQL): SQL was utilized for analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Customer%20Segmentation%20Analysis)
+  3. Power BI: Power BI was utilized to create an interactive dashboard [View Here](file:///C:/Users/DELL/Downloads/Veloura%20Customer%20Segmentation%20Dashboard.pdf)
     
   ## Customer Churn Analysis
    ### Case Study: Customer Churn Analysis For "Good Bank" Bank
