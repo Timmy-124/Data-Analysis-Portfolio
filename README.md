@@ -117,6 +117,12 @@ The primary objectives of this analysis are:
    ### Tools Used
   1. Microsoft Excel: Excel was used for data cleaning by applying various functions to identify missing values, remove duplicates, check for outliers and check for misspellings
   2. Structured Query Language (SQL): SQL was utilized for analysis [View Here](https://github.com/Timmy-124/Data-Analysis-Portfolio/blob/main/Customer%20Segmentation%20Analysis)
+    ### Analysis and Findings
+    ### KPIs and Metrics
+  1. Customer Lifetime Value: The overall customer lifetime value is $198
+  2. Average Order Value: Customers spent an avaerage of $14 per transaction
+  3. Total Orders: The total number of orders is 4,671
+  4. Total Customers: The total number of customers is 990
   
   ## Customer Churn Analysis
    ### Case Study: Customer Churn Analysis For "Good Bank" Bank
